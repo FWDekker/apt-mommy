@@ -1,0 +1,31 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: all
+Date: Tue, 28 Nov 2023 17:21:21 +0000
+Description: github-based apt repository for mommy~
+Label: mommy
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e                0 Packages
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Packages
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Packages
+SHA512:
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 Packages
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEsqtFSleKVinD/3n1WHXGedpe5g4FAmVmIZEACgkQWHXGedpe
+5g6BnhAAlcZvbyVvcyRnFMzzuRLWlOgLb7NliOWCI+VUyJ8CvWIjNGPWqB8Z+cS9
+wL0LPFjPU/I2w+8vMIoQWYDPYEcDU/Ksjf5uEPIYT6u2fuGCUp868bl+3dz8BR5y
+uq6/sTqTiucaHRAOHYkJuI6Yk75i3I61ORu2o34LjJqJ+qDqgR7ilJEXyeQ8epwb
+IoTeqMh/jAtf4mXUQPls70SPrq5OzX5/q3od0Amm1vwQBsXE30WA3kp+Zcy/nBP7
+igXDotmN79a9EmobV14Fmx1cRXtqYNg2UTIQKd6EPCULGChT+iLiMGkgZIk9jcat
+0EKaZ8imPFYCWUXRNDPydjG1OC4oB8Kyp4kDeM8dabQ5GFHX2CwZRxtfwc/bef8m
+/YvzIDx1+d4zByixVV7IwN9QzfILw/oEo9kOGmUXDXU5xb5w9kBttGAJL3q0KKDr
+LSweue6kUC+t1NueloiLRrvvk7zX5RwkInZ/zwqnHWnQeqy7eTWSYXEkq8SMb3iq
+Ml6yFDxJNhi+oIfaMxtMIAd+zYiELuX30lw2bL4Q+3/RnLuUzozTh/sdCYrkWTyw
+yV7P2TuBPfHVcto1vFXKfswP7VIG+etippvtAtCyyN4hgKE1trDNvXFISwhQBKoj
+oEVgtjqU/XzYWyqW2zRBZ4aRSFdSuUA3V8H+wOJn0K6RObypySI=
+=eVs5
+-----END PGP SIGNATURE-----
