@@ -1,0 +1,18 @@
+Package: mommy
+Architecture: all
+Version: 1.2.6
+Priority: optional
+Section: default
+Maintainer: Florine W. Dekker
+Installed-Size: 14
+Filename: ./mommy-1.2.6.deb
+Size: 8408
+MD5sum: d3124fb9a05826fbac9c249c176b5f56
+SHA1: ec8876f1ed7793d5380af1931c9091c0b7364a69
+SHA256: 2e92383836077ba40a03b48989021928432dd9b8cf76bf4d214d03c383a4de67
+SHA512: f809ecec3e906d675731596712437164cf92a9afa32fe30a7b20ae5bb850c02501d9910bb15ca121e1031fc47ca72c8d0d6ef25cbb12bcdeef5658d0250450d3
+Homepage: https://github.com/FWDekker/mommy
+Description: mommy's here to support you~
+License: unlicense
+Vendor: none
+

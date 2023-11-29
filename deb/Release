@@ -1,12 +1,21 @@
 Architectures: all
-Date: Tue, 28 Nov 2023 17:21:21 +0000
+Date: Wed, 29 Nov 2023 14:12:38 +0000
 Description: github-based apt repository for mommy~
-Label: mommy
+Label: https://github.com/FWDekker/mommy
+Origin: mommy
 MD5Sum:
- d41d8cd98f00b204e9800998ecf8427e                0 Packages
+ aa0a84476872f182f5b483d885f67524              589 Packages
+ 2fd677654c02266dcdd69e63e6dfdd1e              431 Packages.gz
+ 85ff9e03b68f14a892206bc701416872              512 Packages.xz
 SHA1:
- da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Packages
+ 2c93c2d0839f23227bf123a8478bb85c69d444ae              589 Packages
+ be50c405c88f74ae83e819913c5f3be6a0994117              431 Packages.gz
+ 5deec3fa0e7ebaf302985bd4eb875fbd78d4919f              512 Packages.xz
 SHA256:
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Packages
+ 309b3726cd1624459b100fdc45f9fe944e685371288b3b5f8dde1984ac49d946              589 Packages
+ acf486c27d265aae10ac114ae32b0d8910862091e92a649e428e6f45aeb2b634              431 Packages.gz
+ 68665f5f7c49c0023e85f6b1ce0cde479dcfcc37a2eb5e9fca264fa8dec5041e              512 Packages.xz
 SHA512:
- cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 Packages
+ 8763498df2994dede3677cb91bb9558c37e56f8e6564cf5d5bb18f46c2e54452d105cf79ca1b108979dd4edd02ed8407d46f98a402a8ac99cdb4391bfd93601e              589 Packages
+ 39191ed34d4269bc2506e7c9ef4e698314ce6b913b5e61a83ec823e944f1f0602831db802ad486ed7f94dde9e810f3eac77015b92e6f1af7aeb98059f4f06455              431 Packages.gz
+ 7275ba8d93a0d333b53a361ab4704c2622aa6b1fa1919dacf5fb60965ce5d75280b4e6271d59135f58035064e0831be24f70d875e9be0c1729cb4d4faaaea23f              512 Packages.xz
