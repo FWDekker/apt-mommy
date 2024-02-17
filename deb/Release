@@ -1,21 +1,21 @@
 Architectures: all
-Date: Wed, 29 Nov 2023 14:12:38 +0000
+Date: Sat, 17 Feb 2024 16:21:01 +0000
 Description: github-based apt repository for mommy~
 Label: https://github.com/FWDekker/mommy
 Origin: mommy
 MD5Sum:
- aa0a84476872f182f5b483d885f67524              589 Packages
- 2fd677654c02266dcdd69e63e6dfdd1e              431 Packages.gz
- 85ff9e03b68f14a892206bc701416872              512 Packages.xz
+ cae7b54e4c268a07ba751a67f2c914c3             1767 Packages
+ 15aaa7073c5a991caafacf7766768920              810 Packages.gz
+ 2751625612e46c52bddfae7a35903478              852 Packages.xz
 SHA1:
- 2c93c2d0839f23227bf123a8478bb85c69d444ae              589 Packages
- be50c405c88f74ae83e819913c5f3be6a0994117              431 Packages.gz
- 5deec3fa0e7ebaf302985bd4eb875fbd78d4919f              512 Packages.xz
+ 4fd381b1004597939b39a0d237e6fb2fb13e6f81             1767 Packages
+ 6dc4444b57fdbf93c09efdc7fe375c828da91cfc              810 Packages.gz
+ 702f1d3e370809afe9fc6b3eeb2208afdb94cfd8              852 Packages.xz
 SHA256:
- 309b3726cd1624459b100fdc45f9fe944e685371288b3b5f8dde1984ac49d946              589 Packages
- acf486c27d265aae10ac114ae32b0d8910862091e92a649e428e6f45aeb2b634              431 Packages.gz
- 68665f5f7c49c0023e85f6b1ce0cde479dcfcc37a2eb5e9fca264fa8dec5041e              512 Packages.xz
+ 784280911daf5c0df42cdaf70191217d95b8dbb6edf479e38444c5195c0494bb             1767 Packages
+ eb7304fdb3cfa006c94c878665fa0836291548ea1074e3a956f22e73c499516c              810 Packages.gz
+ 78c0791f638ed92139b0cc2b3c0b063efe552c65be4d1725e35127d656f14c56              852 Packages.xz
 SHA512:
- 8763498df2994dede3677cb91bb9558c37e56f8e6564cf5d5bb18f46c2e54452d105cf79ca1b108979dd4edd02ed8407d46f98a402a8ac99cdb4391bfd93601e              589 Packages
- 39191ed34d4269bc2506e7c9ef4e698314ce6b913b5e61a83ec823e944f1f0602831db802ad486ed7f94dde9e810f3eac77015b92e6f1af7aeb98059f4f06455              431 Packages.gz
- 7275ba8d93a0d333b53a361ab4704c2622aa6b1fa1919dacf5fb60965ce5d75280b4e6271d59135f58035064e0831be24f70d875e9be0c1729cb4d4faaaea23f              512 Packages.xz
+ f56ad12788eac83fcb25b5b72a12b81e44d9c913abac312486e4ad4ec4065d87f9ff114aeede3a3d3f86f555337b300253ba6da6ff76dd2250d7b2417d87ed65             1767 Packages
+ 2632cec7b0ab276a19c89e4cc21dffca7948bc84fd3c17fa9e345740c44a04792b189c74493d15207544ad1988f59a7a861be223401ee3df0cd2aa0b1ec578e9              810 Packages.gz
+ aaee0134cf4a7b5ad79dbe7b8520257ac04115214fd7bb4a6cca31ee54cd4b8a48ff7be785f18e23536973ede717d69fdd4c098fb8cf2be8934286d6f01377ec              852 Packages.xz

@@ -16,3 +16,39 @@ Description: mommy's here to support you~
 License: unlicense
 Vendor: none
 
+Package: mommy
+Architecture: all
+Version: 1.3.0
+Priority: optional
+Section: default
+Maintainer: Florine W. Dekker
+Installed-Size: 14
+Filename: ./mommy-1.3.0.deb
+Size: 9032
+MD5sum: 47de869fbbdd6566f70a7dd65c100f50
+SHA1: 8f864244b7fdc75e116aa9a8f0e6501d1a304d71
+SHA256: 9b03c02a20296a1667097ad76d66a1ce5936187e2772eec34502b5fe081c712c
+SHA512: ad26fdbe5d5f95d97cee81409286a7abba0e436ebfa4289f08de1a22b3499cf59dda4d8f08c07fb236eae13d4f46c55313cfbf080e2fc3f199822721e111f985
+Homepage: https://github.com/FWDekker/mommy
+Description: mommy's here to support you~
+License: unlicense
+Vendor: none
+
+Package: mommy
+Architecture: all
+Version: 1.4.0
+Priority: optional
+Section: default
+Maintainer: Florine W. Dekker
+Installed-Size: 16
+Filename: ./mommy-1.4.0.deb
+Size: 9500
+MD5sum: 2a016ddbcced6c52390bb674a906ac8c
+SHA1: fe13d599b23d61debcc426b2d5fad5764b4b8371
+SHA256: 6e760fdca51d913fa7893f4d8d19b41a6b4f34d1c714389b9cd1feec7a228b6b
+SHA512: a2928185319a04a9b38e5231a0054089632d345f275943dbc1b9b9b9d8875b5440a7996fc59d1e8ccab6ef36557573ce3c312022b3a816a5c8b317c494df3c6b
+Homepage: https://github.com/FWDekker/mommy
+Description: mommy's here to support you~
+License: unlicense
+Vendor: none
+
