@@ -52,3 +52,21 @@ Description: mommy's here to support you~
 License: unlicense
 Vendor: none
 
+Package: mommy
+Architecture: all
+Version: 1.5.0
+Priority: optional
+Section: default
+Maintainer: Florine W. Dekker
+Installed-Size: 21
+Filename: ./mommy-1.5.0.deb
+Size: 10986
+MD5sum: 2291058db5f7b655effaf61914cb8b88
+SHA1: 7fe2cbc59284115fd9053c254786360c7a73e853
+SHA256: c87fffb295bd57f2f53443041ad3ee5d04251d7b1896bf9441694df9fbbe5abb
+SHA512: d3441c4ca6d07a1cf028182b2fcbd40f46486b17d279696e1b63627a5ae6bbf8ad704623a2173e390d65535836c7ab83684065760cddddc90bca20ba3b3d8f0e
+Homepage: https://github.com/FWDekker/mommy
+Description: mommy's here to support you~
+License: unlicense
+Vendor: none
+
