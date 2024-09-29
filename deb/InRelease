@@ -2,39 +2,39 @@
 Hash: SHA512
 
 Architectures: all
-Date: Wed, 28 Feb 2024 18:33:04 +0000
+Date: Sun, 29 Sep 2024 11:04:10 +0000
 Description: github-based apt repository for mommy~
 Label: https://github.com/FWDekker/mommy
 Origin: mommy
 MD5Sum:
- a47bbf0943441c352e02f90753a91f14             2357 Packages
- f2f59938e5ba32bcb11f2d61ad5d41ec              994 Packages.gz
- d67217dc7e2d0e21254556b0930bad88             1016 Packages.xz
+ 6bc61b85abf3de4739423826e360801f             2947 Packages
+ 81a11220bde36b173eb50be04c15d05b             1175 Packages.gz
+ 3ae72ed2bf2ede164035c74854ba75f2             1172 Packages.xz
 SHA1:
- f073f4335a5458985c93efbf2330bd4c922835bf             2357 Packages
- 80bfaec5f41c8eff68f4073a4b4d70e153689566              994 Packages.gz
- bace9a24d4e37b00724c1dee2cc31165fecf9382             1016 Packages.xz
+ 54513122a77b7a543c03bcba2cba2c2d514b349c             2947 Packages
+ b17b11e4b676d279e9fe6721a12ddd5b8072fabb             1175 Packages.gz
+ ba664de4652d56667aabb26d030e877d8e0a18e9             1172 Packages.xz
 SHA256:
- a4c2d1ed093c6b4809f8bf708483f86eff071dbb04c3ef69bd4bd5338d8ef096             2357 Packages
- f9792c352732ddd67e0a064f3c4f36d4fab986193aa18a9ce89d5e2ef1e67e9c              994 Packages.gz
- 5b7668efa2d57790eddfe7c8bf4bb1401d55f7038a1fec314c0bc54632b3ded8             1016 Packages.xz
+ 049bfb7e4f32a317e096d64eafcd4eeba4cf3f0522f8a18f5e4e44c248fc33c1             2947 Packages
+ a0f18c90e7f762190417886e8574cfaa5c7de6d68b3523b13c7c30c95e0ef6c5             1175 Packages.gz
+ 2567879ddee648d3ad88e8762d5321d96395b6dbc534a6d9105263e954daa685             1172 Packages.xz
 SHA512:
- c7c7c4a01447e8de4779fde3cb2e56fd5e8158641a182980e9aad5b77f5fe2469860a0b7da917626fe6942f406d19a0d3a2f9bf4cceeb7d4c6d641eb209bdeb5             2357 Packages
- 3654ba327079506d92319d8cfbb6f3b9df133a5a83606a2cd2f93b1f0af54fab08230b38e0f91af1dae515e89fd6f2d9bdf0ab197f763142f8342d5f71aa44ed              994 Packages.gz
- 85eb9b4b545cf398668e68347180921b24616e2ed45648391ed255f88676098b482278183215edb0fdbd253e3ac14f300eea457d3c473091806ba17ac8f5efde             1016 Packages.xz
+ 77f19a150f6fb8edb435eccb3d8c5bcd2fdca263e33d122e238a2c70facbc1912b47c04e780e08f384844064a808c1678d0d09dcb648ee195eb62c4dfbd590e5             2947 Packages
+ 8aac5d21d7b6ebf8e06714bc55a53cfb3983500784ff6eff9eb682ab0d31e190a1e36cc381df8ac2324f8b13961694e41a41bfb36c778135c4bdd69660f3a27a             1175 Packages.gz
+ 99fbaf6049d1fd4dc45ff902aa8e62d8f15c8a4006c60e4d863d334b34130b7affea08083a11fc7085cb07b00da38558aab4a3d6c1fd1448a5e7581f6d0d1a2b             1172 Packages.xz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEsqtFSleKVinD/3n1WHXGedpe5g4FAmXffGAACgkQWHXGedpe
-5g7FCQ/+L7uSaVyVsSO/KzzOIPTzCCTriGgpwvjXQMiin+6gebHOricQrotzsrCm
-J+JelohUzhr2Twsjroo9+vri57dgBS0xVpLH65mNiGf2uF6j3+jSZVJvOkAH8Kt5
-1eCuLHyZkkQLEfoupeyA6ghjgCn+cGgzbiDDrJ3jGV83RE87CZZJnMAGcMvrbaV2
-7FSowBC8lH+tPlG0KCiSTvkjWrfcP78LON/vcuFSmedSp5TRSp0/stIDovP9dstv
-uFHLhI8gcGIbUZJAHIN5yaSYEs4yELTvSPfNyaRrGpYI+hrRmY8qzoBqd62r7Oif
-EYKPUElnA0sed8UZhQi3e3+im4HhKL3kVg6/OZPeXPtEVsYIJdiFhqsZEtDlwj9y
-xLZ/XzDPWHnZ7/OgIjQa5so4hzMC3cxATmMa1xwfZEhP1rVE8ESr7AFBq5uTuwRS
-O65pL+4GAQW/Y7mj0X6GXGCxMGsrVf7HrjpTI9tnT0tVGtbxjnWUWAIecCR8OqbS
-dg/Drfrsn25sk/uYWp2OL5FwfojjV7Q7IlBtau7FVwtY3/jGqxC53u7ve0EFd4jl
-WYXibFDI1LjcO8em464YVB5fAv5teXeMLPaT+Bpv9rd9tUM4XBXgYSJ6hhWNeJnN
-VUlwJja1IY+w5QTb/RI5MM+zU/leBXC1gHwvsCAOntRMZztw0/I=
-=uSfH
+iQIzBAEBCgAdFiEEsqtFSleKVinD/3n1WHXGedpe5g4FAmb5NCoACgkQWHXGedpe
+5g4UFw/+MtxLKKgu54bDenbdE8zCjDQdPZAt/uVv9sfuv48iNAnoM3z8NSEErXM9
+WdM4eKLftS+zwR3lalnjy8SdeotnMuzj2neTWU6CLBFA8qY+udvF8oGFZVw5gH0s
+wXrjr/R8CsP+VSUeDFD7VP6rQ6Kl50UC+KZvSY5pUktxuHWUxRzn/W2QYa7zPdnu
+MT1Q56yVA+UCY3z47NSOhBe14XkDu2BquRdfENM8M2gtqdqPigwL1mjO7ZDHNO8U
+o85RTHqjC3wBTk1xt4d72Amd0Ljz/phCYzN7/C83N1+XbtrElSWoiwv3ZaE7ek9c
+dlMEYi4kODAffzHZKnuVXRz4syJUWVE0ZHKZXSgJw2l4bu7ojL0BQHXGBtPGo6wg
+zdW8XgGaL6nWpOmypJU9pCw17YkUpvrIT8/ZaWKm4gIahHx61LiyqhwvN2F07e5Y
+hJDOao1l7wNmtSZI5kBCVvDVLx8TZxutmSOvOZjgtBuLBhaceGMM7bRPK/emEnP8
+asdFsFEjvPu1JAFGKW/DG7wYB9QzbqlusYhNeiiew6GzMAq4rlLnH6mMV1e1rzZa
+m0ptCIL0TzNDKrm4DvOKK4oGGy3Mi+5Mjfih9fR+zJn6mK1h7FviUeHdfyPZqX5f
+FSVDqe/7t4roV3UQeg47FIZ7x/Vp5UVYR9plhktzQ/+KiTulnNA=
+=sQrD
 -----END PGP SIGNATURE-----
